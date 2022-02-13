@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arynsampson
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... HTML & CSS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m currently building my portfolio website
 - 📫 How to reach me ...
 
 <!---
